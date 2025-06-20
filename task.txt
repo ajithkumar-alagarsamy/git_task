@@ -8,3 +8,4 @@ commit 4
 commit 5
 commit with wrong commit message and change the commit message using amend.
 for mixed
+added this line from conflict_branch in ws_0
