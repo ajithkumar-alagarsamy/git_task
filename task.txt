@@ -1,2 +1,2 @@
 Created from main
-Added this line from 'first_branch' and commit this changes without push then checkout to main for task 1 and 2.
+Added this line from 'first_branch' and commit this changes without push then checkout to main for task 1 and 2. - change this line from first_branch for create conflict.
