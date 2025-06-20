@@ -7,3 +7,4 @@ commit 3
 commit 4
 commit 5
 commit with wrong commit message and change the commit message using amend.
+for mixed
