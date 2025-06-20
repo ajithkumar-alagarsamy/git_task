@@ -10,3 +10,4 @@ commit with wrong commit message and change the commit message using amend.
 for mixed
 added this line from conflict_branch in ws_0
 after merge with use of ws_1 and change this in conflict_branch in ws_0.
+added this line from conflict_branch in ws_1 (updated in ws_1).
